@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 <div style="text-align: center">
 
-<p>From the moment my family brought home our first computer, I became fascinated with the possibilities of what it could do. This sparked a life-long passion for technology. I started writing my first code when I was a kid and making fan websites was an obsession of mine in middle school. When I graduated high-school I went into a Unix/Linux Information Systems program in college which gained me my first real job in the tech industry. I have spent the past decade in network and systems engineering, network security, project management, and department management in the Healthcare IT field.
+<p>I am a software developer with a background in IT management and engineering. I have had a life-long passion for technology ever since my family came home with our first computer. I started writing code when I was a kid making web pages and connecting computers together with software and hardware has been an obsession of mine ever since. I received a degree in Unix/Linux Information Systems in college and I have spent the past decade in managing enterprise network and systems infrastructure, network security, project management, and many other aspects of the IT field.
 
-More recently, I've embarked on a personal challenge to pivot my career towards software engineering. This endeavor has been a chance to learn something new and bring me back to the roots of what got me interested in technology in the first place, building things.
+More recently, I've embarked on a personal challenge to pivot my career towards software engineering. This endeavor has been a chance for me to learn new languages and frameworks and bring me back to the roots of what got me interested in technology in the first place, building things.
 
-Let's connect!
-email: daniel.c.lewis@outlook.com</p>
+I would love to connect about building something with you!
+email me: dmdanlewis@gmail.com</p>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
