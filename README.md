@@ -1,8 +1,6 @@
 <h1 align="center">I'm Daniel 👨‍💻</h1>
 
-<p align="center">I am a software developer with a background in IT management and engineering. I have had a life-long passion for technology ever since my family came home with our first computer. I started writing code when I was a kid making web pages and connecting computers together with software and hardware has been an obsession of mine ever since. I received a degree in Unix/Linux Information Systems in college and I have spent the past decade in managing enterprise network and systems infrastructure, network security, project management, and many other aspects of the IT field.</p>
-
-<p align="center">More recently, I've embarked on a personal challenge to pivot my career towards software engineering. This endeavor has been a chance for me to learn new languages and frameworks and bring me back to the roots of what got me interested in technology in the first place, building things.</p>
+<p align="center">I am a software developer with a background in IT management and engineering. Recently, I've embarked on a personal challenge to pivot my career towards software engineering. This endeavor has been a chance for me to learn new languages and frameworks and bring me back to the roots of what got me interested in technology in the first place, building things.</p>
 
 <p align="center">I would love to connect about building something with you!
 email me: dmdanlewis@gmail.com</p>
