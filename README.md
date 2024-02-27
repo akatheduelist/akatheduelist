@@ -1,6 +1,6 @@
-<h1 align="center">I'm Daniel 👨‍💻</h1>
+<h1 align="center">Hi There! I'm Daniel 👨‍💻</h1>
 
-<p align="center">I am a software developer with a background in IT management and engineering. Recently, I've embarked on a personal challenge to pivot my career towards software engineering. This endeavor has been a chance for me to learn new languages and frameworks and bring me back to the roots of what got me interested in technology in the first place, building things.</p>
+<p align="center">I am a software developer with a background in IT engineering. Recently, I've embarked on a personal challenge to pivot my career towards software engineering. This endeavor has been a chance for me to learn new languages and frameworks and bring me back to the roots of what got me interested in technology in the first place, building things.</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
+<!--
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akatheduelist&layout=compact" alt="Top used languages by akatheduelist" />
 </p>
+--!>
